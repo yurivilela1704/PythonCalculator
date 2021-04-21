@@ -29,3 +29,7 @@ that(or this, i dont no) will be the v2 and i will add more tree options: only t
  division with module and only module.
 
  5)V2 done: All done, i choose not
+
+ 6)v3 done: add square root and change the inputs, because square root need only one number, but the variables has
+ been creat inside the condition, i dont no thats is right.
+ v3.1: create the var outside of condition and now, a thing, all is right

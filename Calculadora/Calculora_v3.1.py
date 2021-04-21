@@ -40,6 +40,9 @@ def square_root(x):
 
 
 option = int(input('Select one option (1, 2, 3, 4, 5, 6, 7): '))
+first_number = 0
+second_number = 0
+one_number = 0
 
 if 0 < option < 6:
     first_number = float(input('Type it the first number: '))
