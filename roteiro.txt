@@ -1,5 +1,9 @@
-Decidi escrever tanto o roteiro, quanto codigo em ingles para treinar a escrita
+Decidi escrever tanto o roteiro, quanto codigo em ingles para treinar a escrita, muito provavelmente terá zilhões de
+erros de gramática.
 
+I wrote the script and the code all in english to training my skills on writing and probabily will have a lot of
+grammatical mistakes.
+########################################################################################################################
 Script to helpe me create a calculator
 
 --version 1.0
@@ -23,3 +27,5 @@ Script to helpe me create a calculator
 4)V1 DONE: After conclude the v1, i saw another option using functions, and not aritmetic operator,
 that(or this, i dont no) will be the v2 and i will add more tree options: only the int part of a split,
  division with module and only module.
+
+ 5)V2 done: All done, i choose not
