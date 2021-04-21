@@ -1,0 +1,25 @@
+Decidi escrever tanto o roteiro, quanto codigo em ingles para treinar a escrita
+
+Script to helpe me create a calculator
+
+--version 1.0
+
+1) First Steps:
+# Title
+# Question for user "Select the number for the operation you want?"
+# The options:
+## '1 - SUM'
+## '2 - SUBTRACTION'
+## '3 - MULTIPLICATION'
+## '4 - DIVISION'
+
+2)Second step:
+# create a input for the user choose one of the options
+# first and second entry to first argument
+
+3)Third Step:
+# create some 'IFs' and make the magic happens
+
+4)V1 DONE: After conclude the v1, i saw another option using functions, and not aritmetic operator,
+that(or this, i dont no) will be the v2 and i will add more tree options: only the int part of a split,
+ division with module and only module.
